@@ -1,4 +1,4 @@
-require_relative position_taken.rb
+require_relative 'position_taken'
 
 # def position_taken?(board, index)
 #   if board[index] == " " || board[index] == "" || board[index] == nil
